@@ -7,7 +7,7 @@ import vercel from '@astrojs/vercel/static';
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://rossinylongo.github.io/",
+  site: "https://Lmntrix31.github.io/",
   integrations: [
     mdx({
       syntaxHighlight: 'shiki',
