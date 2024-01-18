@@ -42,7 +42,11 @@ const { className } = Astro.props;
       class="absolute top-1/2 left-1/2 -translate-x-4 -translate-y-4 md:hidden"
     >
       <a href="/" aria-label="Astronomy homepage">
-        <Icon name="stars-outline" class="size-8" />
+        <img
+          src="/logo-lab.png"
+          alt={siteConfig.name}
+          class="w-8 h-8 md:w-10 md:h-10"
+        />
       </a>
     </div>
 
