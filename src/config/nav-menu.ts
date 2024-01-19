@@ -6,20 +6,20 @@ export const navMenuConfig: NavMenuConfig = {
       title: "Menu",
       items: [
         {
-          title: "Features",
+          title: "Ux Design",
           href: "/#features",
-          description: "Take a closer look at the project's features.",
+          description: "Examinez de plus près ce qu'est l'Ux Design.",
         },
         {
-          title: "Twitter (@miickasmt)",
-          href: "https://twitter.com/miickasmt",
-          description: "Follow me to get the latest updates and news.",
+          title: "Portfolio",
+          href: "https://www.figma.com/proto/ImPxOsAwzC3xyelaAcRIeE/PortFolio?page-id=0%3A1&type=design&node-id=94-2&viewport=-814%2C983%2C0.23&t=6GBSRDBByE5wlVfV-1&scaling=min-zoom&starting-point-node-id=94%3A2",
+          description: "Suivez-moi pour recevoir les dernières mises à jour et nouvelles.",
           external: true,
         },
         {
           title: "Source Code",
           href: "https://github.com/mickasmt/astro-nomy",
-          description: "You want to star the repository ? Let's get started!",
+          description: "Vous souhaitez mettre le dépôt en star ? Commençons!",
           external: true,
         },
       ],
