@@ -1,6 +1,6 @@
 ---
-title: 'Using MDX'
-description: 'Lorem ipsum dolor sit amet'
+title: "Plongée dans le Système et les Sources d'Écoute"
+description: "Le Binôme Essentiel de l'UX/UI dans le Football"
 pubDate: 'Jul 02 2022'
 coverImage: '/blog-placeholder-5.jpg'
 category: 'code'
