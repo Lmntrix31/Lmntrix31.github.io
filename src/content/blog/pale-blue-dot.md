@@ -1,15 +1,40 @@
 ---
-title: 'Pale Blue Dot'
-description: "Carl Sagan's reflection on our planet Earth"
-pubDate: 'Sep 10 2023'
-coverImage: '/blog-placeholder-4.jpg'
-category: 'space'
+title: 'Analyse Systémique des Applications Mobiles des Clubs de Football'
+description: "Une analyse systémique approfondie des applications mobiles des clubs de football. "
+pubDate: 'Jan 10 2024'
+coverImage: '/parcours.jpg'
+category: 'Holistique'
 ---
 
-Look again at that dot. That’s here. That’s home. That’s us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every “superstar,” every “supreme leader,” every saint and sinner in the history of our species lived there—on a mote of dust suspended in a sunbeam.  
+
+Plongeons ensemble au cœur du sujet avec cet article qui décortique de manière approfondie les applications mobiles des clubs de football. Je me suis inspiré des recherches du <a href="https://jnd.org/" class="text-gradient_indigo-purple">Nielsen Norman Group</a> sur l'architecture de l'information et je vais illustrer mes propos en évoquant des exemples de réussite tels que l'application du FC Barcelone, du Milan Ac et bien d'autres encore. L'objectif ? Mettre en avant l'importance cruciale de créer une expérience utilisateur cohérente et holistique dans ce domaine passionnant. L'article est enrichi avec une facilitation à la comprehension du parcours utilisateur, graphique montrant son importance et des témoignages d'experts en UX/UI pour offrir une vision complète du sujet.
 
 
-The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.   
+<div style="display: flex; align-items: flex-start; margin-top: 10px;">
+  <div style="flex: 1; margin-right: 10px;">
+    <a href="/user.jpg" data-lightbox="image-1" data-title="Image 1">
+      <img src="/user.jpg" alt="Image 1" class="rounded w-64 h-64">
+    </a>
+    <p>Facilitation graphique d’un parcours utilisateur cliquez</p>
+  </div>
+  <div style="flex: 1;">
+    <a href="/carte.png" data-lightbox="image-2" data-title="Image 2">
+      <img src="/carte.png" alt="Image 2" class="rounded w-64 h-64">
+    </a>
+    <p>
+Les produits que nous concevons doivent refléter l'état d'esprit de nos utilisateurs. Intégrer une voie émotionnelle dans le parcours utilisateur permet de mieux comprendre et ajuster les aspects de l'expérience.<br> 
+<br>Astuce : Utilisez une carte de l'empathie pour une compréhension approfondie des émotions des utilisateurs.</p>
+  </div>
+</div>
 
-Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.   
-The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.   
+<h3>
+La cartographie du parcours client se révèle être un outil essentiel pour les designers UX :
+</h3>
+Elle offre une visualisation claire des interactions entre l'utilisateur et le produit. Elle permet aux concepteurs d'adopter une perspective centrée sur l'utilisateur, favorisant ainsi la création d'une expérience utilisateur améliorée. L'utilisation d'outils web tels que les Heatmaps peut grandement faciliter ce processus. <a href="https://pinput.co/blog/parcours-utilisateur-ux" class="text-gradient_indigo-purple">Exemple PinPut</a>
+<div>
+<video controls autoplay muted loop>
+  <source src="/heatmaps.mp4" type="video/mp4">
+</video>
+</div>
+
+En vous appuyant sur les recherches du <a href="https://jnd.org/" class="text-gradient_indigo-purple">Nielsen Norman Group</a> et les exemples concrets comme celui de l'application du <a href="https://www.fcbarcelona.fr/fr/official-app" class="text-gradient_indigo-purple">FC Barcelone</a>, ceci vous fournira des connaissances approfondies pour façonner des expériences utilisateur holistiques, une expertise indispensable dans le domaine des applications mobiles des clubs de football. Ces principes peuvent être directement appliqués pour créer des interfaces à la fois cohérentes et captivantes.   

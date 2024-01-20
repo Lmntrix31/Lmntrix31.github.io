@@ -10,9 +10,13 @@ category: 'Interfaces Dynamiques'
 
 Dans cette exploration inédite, je plonge au cœur de la conception d'interfaces pour les clubs de football en mettant en lumière l'impact des wireframes dynamiques. M'appuyant sur des recherches approfondies de pionniers tels que le <a href="https://jnd.org/" class="text-gradient_indigo-purple">Nielsen Norman Group</a> et des projets tests au sein de clubs prestigieux en Europe, je vous livre une perspective singulière sur l'efficacité de cette méthode. Les résultats concrets de ces expérimentations, révélant des taux d'itération accélérés et une adhésion accrue des utilisateurs, sont minutieusement documentés et appuyés par des statistiques palpables.
 
-<div style="display: flex; justify-content: space-between; margin-top: 10px;">  
-<img src="/wireframe2.jpg" alt="Image 1" class="rounded w-64 h-64">
-<img src="/stat.png" alt="Image 2" class="rounded w-64 h-64">
+<div style="display: flex; justify-content: space-between; margin-top: 10px;">
+  <a href="/wireframe2.jpg" target="_blank">
+    <img src="/wireframe2.jpg" alt="Image 1" class="rounded w-64 h-64">
+  </a>
+  <a href="/stat.png" target="_blank">
+    <img src="/stat.png" alt="Image 2" class="rounded w-64 h-64">
+  </a>
 </div>
 
 Les fondements de cet article reposent sur des sources émanant du <a href="https://jnd.org/" class="text-gradient_indigo-purple">Nielsen Norman Group</a> et des rapports issus de projets pilotes au sein de clubs européens renommés. Cette ressource se veut une porte d'entrée vers une approche novatrice de la conception d'interfaces, offrant des preuves tangibles des bénéfices des wireframes dynamiques. J'espère que cette exploration vous incitera à repousser les limites de vos méthodologies de conception en intégrant des approches expérimentales, propices à une itération plus rapide.
