@@ -3,7 +3,7 @@ title: 'Une Approche Pratique pour les Applications de Football en Direct'
 description: "Se pencher sur l'optimisation de l'ergonomie dans le contexte des applications de football en direct"
 pubDate: 'Jan 13 2024'
 coverImage: '/live.png'
-category: 'design'
+category: 'Ergonomie'
 ---
 
 
