@@ -7,7 +7,7 @@ category: 'Holistique'
 ---
 
 
-Plongeons ensemble au cœur du sujet avec cet article qui décortique de manière approfondie les applications mobiles des clubs de football. Je me suis inspiré des recherches du <a href="https://jnd.org/" class="text-gradient_indigo-purple">Nielsen Norman Group</a> sur l'architecture de l'information et je vais illustrer mes propos en évoquant des exemples de réussite tels que l'application du FC Barcelone, du Milan Ac et bien d'autres encore. L'objectif ? Mettre en avant l'importance cruciale de créer une expérience utilisateur cohérente et holistique dans ce domaine passionnant. L'article est enrichi avec une facilitation à la comprehension du parcours utilisateur, graphique montrant son importance et des témoignages d'experts en UX/UI pour offrir une vision complète du sujet.
+Plongeons ensemble au cœur du sujet avec cet article qui décortique de manière approfondie les applications mobiles des clubs de football. Je me suis inspiré des recherches du <a href="https://jnd.org/" class="text-gradient_indigo-purple">Nielsen Norman Group</a> sur l'architecture de l'information et je vais illustrer mes propos en évoquant des exemples de réussite tels que l'application du FC Barcelone, du Milan Ac et bien d'autres encore. L'objectif ? Mettre en avant l'importance cruciale de créer une expérience utilisateur cohérente et holistique dans ce domaine passionnant. L'article est enrichi avec une facilitation à la comprehension du parcours utilisateur et graphique montrant son importance pour offrir une vision complète du sujet.
 
 
 <div style="display: flex; align-items: flex-start; margin-top: 10px;">
