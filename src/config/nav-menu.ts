@@ -32,7 +32,7 @@ export const navMenuConfig: NavMenuConfig = {
         {
           title: "Blog",
           href: "/blog",
-          description: "A Markdown/MDX blog built using Content Collections.",
+          description: "Explorez l'art de l'UX avec des conseils pratiques.💡 #UXDesign",
         },
         {
           title: "Docs",
