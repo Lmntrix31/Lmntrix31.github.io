@@ -1,17 +1,14 @@
 ---
-title: 'First Post'
-description: 'Embark on a web development adventure with our inaugural post, diving deep into industry insights and emerging trends.'
-pubDate: 'Jul 08 2022'
-coverImage: '/blog-placeholder-3.jpg'
-category: 'design'
+title: "L'Impact de la Conception Visuelle sur l'Engagement des Fans"
+description: "Cet article plonge dans l'univers captivant de la conception visuelle et examine son influence directe sur l'engagement émotionnel des fans dans le contexte du football."
+pubDate: 'Jan 01 2024'
+coverImage: '/esthtisme2.jpg' 
+category: 'Esthétique'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+En plongeant dans l'univers fascinant de la conception visuelle, cet article explore comment des choix esthétiques réfléchis peuvent renforcer la connexion émotionnelle entre les fans de football et leur équipe favorite. À travers une étude approfondie de cas concrets, notamment la remarquable refonte de l'application mobile d'un club de renom, nous démontrons l'impact significatif de la conception visuelle sur l'engagement émotionnel des supporters. En référence à des travaux psychologiques, tels que ceux de <a href="https://jnd.org/" class="text-gradient_indigo-purple">Donald Norman</a> sur la psychologie du design, et à des analyses comparatives avec d'autres industries, nous étayons nos arguments. Cet article s'appuie également sur des cas d'étude, tels que la réussite de la refonte de l'application mobile du <a href="https://jnd.org/" class="text-gradient_indigo-purple">FC Barcelone</a>, documentée par des sources comme <a href="https://jnd.org/" class="text-gradient_indigo-purple">Smashing Magazine</a>. Nous vous encourageons à explorer ces références pour des insights concrets sur la manière dont la conception visuelle peut intensifier l'engagement émotionnel des fans, avec des applications directes pour les interfaces des clubs de football.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
-
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
-
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
-
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+<div style="display: flex; justify-content: space-between; margin-top: 10px;">  
+<img src="/article1-1.jpg" alt="Image 1" style="width: 45%;">
+  <img src="/article1.jpg" alt="Image 2" style="width: 45%;">
+</div>
