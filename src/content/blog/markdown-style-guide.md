@@ -1,215 +1,43 @@
 ---
-title: 'Markdown Style Guide'
-description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
-pubDate: 'Jul 01 2022'
-coverImage: '/blog-placeholder-1.jpg'
-category: 'code'
+title: 'Une Expérimentation Transformative '
+description: "L'Intégration d'une Application pour les Tournois de Football Junior D à Neuchâtel"
+pubDate: 'Jan 20 2024'
+coverImage: '/tournois2.jpg'
+category: 'Expérimentation'
 ---
 
-Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+Dans le monde dynamique des tournois de football junior D, chaque détail compte pour améliorer l'expérience des participants et des spectateurs. Ma récente expérience lors de tournois organisés dans le canton de Neuchâtel a été marquée par une expérimentation qui a profondément transformé la façon dont les résultats étaient suivis et communiqués.
 
-## Headings
+Lors du premier tournoi organisé par <a href="https://anf.football.ch/association-neuchateloise-de-football.aspx" class="text-gradient_indigo-purple"> l'Association Neuchâteloise de Football (ANF) </a>, il était clair que la gestion des résultats constituait un défi majeur. Les spectateurs, y compris les parents et les supporters, se trouvaient confrontés à la nécessité de retenir chaque résultat pour déterminer le classement des équipes et comprendre les conditions pour passer en finale. L'image d'un parent recréant manuellement tous les matchs avec un bout de papier était symptomatique de cette complexité.
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Cependant, lors d'un autre tournoi organisé par une équipe locale du canton, une solution novatrice a été introduite : une application dédiée pour suivre les scores en temps réel. Cette expérience a radicalement changé la donne. 
 
-# H1
+Comme <a href="https://fr.linkedin.com/company/rakuten-dx" class="text-gradient_indigo-purple"> Rakuten.dx </a>qui est une entreprise de Montpellier (France) a permis au FC Girondins de Bordeaux (FCGB), une équipe de football française, de donner le coup d’envoi de son propre parcours numérique avec l’ouverture de son hub de données clients. Cette structure a deux objectifs. Recueillir tout d’abord les données relatives aux audiences, les regrouper dans un <a href="https://fr.wikipedia.org/wiki/Lac_de_donn%C3%A9es" class="text-gradient_indigo-purple"> lac de données</a> et les convertir en informations exploitables. Utiliser ensuite ces informations pour proposer des expériences personnalisées. Cette transformation numérique permet non seulement aux Girondins, mais également à leurs marques partenaires, de bénéficier de données d’une grande valeur. Des données qui ouvrent les portes d’un monde aux possibilités illimitées en matière d’innovation et de monétisation des données sur les audiences.  Pour eux, Il est essentiel de se rapprocher des fans pour pouvoir leur offrir ce qu’ils recherchent. Qu’il s’agisse d’acheter des sandwiches à la mi-temps au cœur d’un stade bondé, d’obtenir les toutes dernières informations sur les joueurs ou de gagner des récompenses dans le cadre d’un programme de fidélité, seules les organisations capables de proposer des expériences exceptionnelles en matière d’interaction avec les fans remporteront le match. Apprendre à connaître ses fans, c’est découvrir leurs données. Une telle approche repose sur une conception utilisateur intelligente centrée sur les fans (expérience utilisateur), parfaitement intégrée dans le cadre d’une stratégie numérique globale.
 
-## H2
 
-### H3
+<h3> 
+L'Impact Transformateur de l'Application 
+</h3>
 
-#### H4
+**Clarté Instantanée :**
+L'utilisation de l'application a apporté une clarté instantanée aux résultats. Les spectateurs pouvaient suivre les scores de tous les matchs en temps réel, éliminant ainsi la nécessité de mémoriser ou de noter manuellement les résultats.
 
-##### H5
+**Excitation Renforcée :**
+Savoir exactement ce que chaque équipe devait accomplir pour se qualifier a ajouté une couche d'excitation supplémentaire au tournoi. Les spectateurs étaient davantage impliqués, discutant des scénarios possibles et encourageant activement leur équipe.
 
-###### H6
+**Communication Simplifiée :**
+Pour les entraîneurs comme mon compagnon, la tâche de transmettre le classement aux enfants s'est simplifiée. Les résultats étaient disponibles en temps réel, permettant une communication directe et précise.
 
-## Paragraph
+**Concentration sur l'Action :**
+En éliminant la nécessité de se souvenir des résultats antérieurs, l'application a permis aux spectateurs de se concentrer pleinement sur les matchs en cours, améliorant ainsi l'expérience globale.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+<h3> 
+Le Déroulement et le Résultat
+</h3>
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+Le tournoi s'est déroulé en février 2023  avec des matchs imprévisibles, des défaites inattendues et des matchs nuls. Malgré ces défis, l'équipe de mon compagnon a terminé première de son groupe. Cela a ouvert la voie à une finale passionnante, malheureusement conclue par une défaite. Cependant, l'essence du tournoi bien organisé et interactif a été préservée, avec une expérience enrichissante pour tous les participants.
 
-## Images
+En conclusion, cette expérimentation datant de février 2023 a illustré de manière concrète comment l'intégration d'une application dédiée peut transformer radicalement l'expérience des tournois de football junior D. La clarté, l'excitation renforcée, la communication simplifiée et la concentration accrue sur l'action sont autant d'éléments qui ont contribué à faire de ce tournoi une expérience mémorable et engageante. Cela souligne l'importance de l'innovation dans l'UX/UI pour créer des expériences sportives plus immersives et accessibles.
 
-#### Syntax
+De plus, le tournoi est de retour en 2024, et vous pouvez suivre les scores en direct grâce à notre <a href="https://www.meinturnierplan.de/showit.php?id=1702298850" class="text-gradient_indigo-purple"> application dédiée</a>.
 
-```markdown
-![Alt text](./full/or/relative/path/of/image)
-```
-
-#### Output
-
-![blog placeholder](/blog-placeholder-about.jpg)
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-### Blockquote without attribution
-
-#### Syntax
-
-```markdown
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-```
-
-#### Output
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.  
-> **Note** that you can use _Markdown syntax_ within a blockquote.
-
-### Blockquote with attribution
-
-#### Syntax
-
-```markdown
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-```
-
-#### Output
-
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-#### Syntax
-
-```markdown
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-```
-
-#### Output
-
-| Italics   | Bold     | Code   |
-| --------- | -------- | ------ |
-| _italics_ | **bold** | `code` |
-
-## Code Blocks
-
-#### Syntax
-
-we can use 3 backticks ``` in new line and write snippet and close with 3 backticks on new line and to highlight language specific syntac, write one word of language name after first 3 backticks, for eg. html, javascript, css, markdown, typescript, txt, bash
-
-````markdown
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-````
-
-Output
-
-```html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <title>Example HTML5 Document</title>
-  </head>
-  <body>
-    <p>Test</p>
-  </body>
-</html>
-```
-
-## List Types
-
-### Ordered List
-
-#### Syntax
-
-```markdown
-1. First item
-2. Second item
-3. Third item
-```
-
-#### Output
-
-1. First item
-2. Second item
-3. Third item
-
-### Unordered List
-
-#### Syntax
-
-```markdown
-- List item
-- Another item
-- And another item
-```
-
-#### Output
-
-- List item
-- Another item
-- And another item
-
-### Nested list
-
-#### Syntax
-
-```markdown
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-```
-
-#### Output
-
-- Fruit
-  - Apple
-  - Orange
-  - Banana
-- Dairy
-  - Milk
-  - Cheese
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-#### Syntax
-
-```markdown
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
-```
-
-#### Output
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
