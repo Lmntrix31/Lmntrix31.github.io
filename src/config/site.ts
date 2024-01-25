@@ -4,10 +4,10 @@ export const siteConfig: SiteConfig = {
   name: "",
   description:
     "Rejoignez-moi dans cette aventure où le football et le design se rencontrent, créant des expériences qui transcendent le simple spectateur pour engager et inspirer chaque fan.",
-  url: "https://astro-nomy.vercel.app",
-  ogImage: "https://astro-nomy.vercel.app/og.jpg",
+  url: "https://lmntrix31.github.io/",
+  ogImage: "/logo-lab.png",
   links: {
-    twitter: "https://twitter.com/miickasmt",
-    github: "https://github.com/mickasmt/astro-nomy",
+    linkedin: "https://www.linkedin.com/in/rossiny-longo-3a3002241/",
+    github: "https://github.com/Lmntrix31",
   },
 };

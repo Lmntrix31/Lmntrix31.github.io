@@ -18,15 +18,15 @@ export type SidebarNavItem = {
   disabled?: boolean;
   external?: boolean;
 } & (
-  | {
+    | {
       href: string;
       items?: never;
     }
-  | {
+    | {
       href?: string;
       items: MenuItem[];
     }
-);
+  );
 
 export type SiteConfig = {
   name: string;
@@ -34,7 +34,7 @@ export type SiteConfig = {
   url: string;
   ogImage: string;
   links: {
-    twitter: string;
+    linkedin: string;
     github: string;
   };
 };
